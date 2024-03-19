@@ -1,17 +1,18 @@
+Sure, here's the same structure with underlines added:
+
 # Python Learning
-
+---
 ## Day 1
-
+---
 ### What is Python
 - Overview of Python programming language.
 - Basic features and characteristics of Python.
 
 ### History of Python
 - Evolution and development of Python.
-- Key milestones in Python's history.
 
 ### Python Vs different Languages
-- Comparison of Python with other programming languages.
+- Comparison of Python with other programming languages such as powershell, linux, java.
 - Highlighting strengths and weaknesses of Python.
 
 ### Ways to Run Python
